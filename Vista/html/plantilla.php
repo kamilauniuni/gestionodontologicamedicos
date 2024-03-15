@@ -1,0 +1,1 @@
+<img src="https://<?php echo $_SERVER['HTTP_HOST'];?>/GestionOdontologica/imagenes/"<?php echo $cita['banner1'];?> width="725">
